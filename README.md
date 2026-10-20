@@ -17,7 +17,7 @@
    <li>amber winslow - sofia the first</li>
    <li>aspen hsum moor - spooky month</li>
    <li>apple white - ever after high</li>
-   <li>M3GAN - M3GAN (182)</li>
+   <li>M3GAN - M3GAN (1st and 2nd movie)</li>
    <li>lily lovebraids - poppy playtime</li>
 </ul>
 <p> etc. </p>
@@ -32,4 +32,4 @@
 <p> etc. </p>
 <br><br><br>
 <h1> and MUCH MORE! </h1>
-<p>that i am too lazy to write down right bow..!!!!.!!</p>
+<p>that i am too lazy to write down right now..!!!!.!! might make pretty eventually</p>
